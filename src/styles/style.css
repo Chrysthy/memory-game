@@ -6,6 +6,8 @@ body {
     min-height: 100vh;
 
     background: #fc1e8a;
+
+    user-select: none;
 }
 
 .container {
@@ -95,4 +97,12 @@ h2 {
     transform: rotateY(0deg);
 
     backface-visibility: hidden;
+}
+
+.item.boxOpen {
+    transform: rotateY(0deg);
+}
+
+.boxOpen::after, .boxMatc::after {
+    transform: rotateY(180deg);
 }
