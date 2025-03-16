@@ -5,7 +5,7 @@ body {
 
     min-height: 100vh;
 
-    background: url(https://image.lexica.art/full_webp/ca6aa2fb-71c7-4fd0-9ef9-472555ce8eee) no-repeat center center/cover;
+    background: url("../img/food.jpg") no-repeat center center/cover;
 
     user-select: none;
 }
