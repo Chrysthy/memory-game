@@ -47,4 +47,7 @@
 
 <br>
 
+## 🌟 Support
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
+
 
