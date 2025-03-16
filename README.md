@@ -17,6 +17,15 @@
 
 ## 📸 Screenshots
 
-<img src="src/video/recv-project.gif" alt="gif do projeto">
+<img src=".github/game.gif" alt="gif do projeto">
+
+<br>
+
+## 🛠 Technologies
+
+- HTML5
+- CSS 3
+- JavaScript
+- Git e GitHub
 
 <br>
