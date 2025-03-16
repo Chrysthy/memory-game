@@ -5,7 +5,7 @@ body {
 
     min-height: 100vh;
 
-    background: #fc1e8a;
+    background: url(https://image.lexica.art/full_webp/ca6aa2fb-71c7-4fd0-9ef9-472555ce8eee) no-repeat center center/cover;
 
     user-select: none;
 }
@@ -20,7 +20,9 @@ body {
 
     gap: 30px;
 
-    background: linear-gradient(325deg, #03001E 0%, #7303C0 30%, #EC38BC 70%, #fdeff9 100%);
+    /* background: linear-gradient(325deg, #03001E 0%, #7303C0 30%, #EC38BC 70%, #fdeff9 100%); */
+
+    background: rgba(128, 128, 128, 0.811);
 
     padding: 40px 60px;
 }
@@ -50,7 +52,7 @@ h2 {
     cursor: pointer;
 }
 
-.reset:focus {
+.reset:hover {
     color: #ec38bc;
     background-color: #262809;
 
@@ -84,6 +86,8 @@ h2 {
 
     transform: rotateY(180deg);
     transition: 0.25s;
+
+    cursor: pointer;
 }
 
 .item::after {
@@ -103,6 +107,7 @@ h2 {
     transform: rotateY(0deg);
 }
 
-.boxOpen::after, .boxMatc::after {
+.boxOpen::after,
+.boxMatch::after {
     transform: rotateY(180deg);
 }
