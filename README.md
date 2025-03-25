@@ -1,6 +1,6 @@
 <h1 align="center"> Memory Game 🧠</h1> 
 
-<p align="center">A classic memory challenge! Flip the cards and find the matching pairs. Test your memory and have fun!.</p>
+<p align="center">A classic memory challenge! Flip the cards and find the matching pairs. Test your memory and have fun!</p>
 
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,7 +34,7 @@
 
 ## 💻 Project
 
-- The project was created to practice HTML, CSS and JavaScript.
+- The project was created as a challenge from the [Dio Bootcamp](https://web.dio.me/track/f31d0ec6-b46a-47d6-b5ec-5dcd3766dacb) and also to practice HTML, CSS, and JavaScript.
 
 <br>
 
